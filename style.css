@@ -1,0 +1,28 @@
+body {
+  background-color: #d8dbe1;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 40px;
+}
+
+p {
+  color: #333;
+  font-size: 20px;
+}
+
+u {
+  color: crimson;
+}
+
+i {
+  color: green;
+}
+
+mark {
+  background-color: gold;
+  color: black;
+}
